@@ -1,3 +1,4 @@
+
 body {
     font-family: "Plus Jakarta Sans", sans-serif !important;
     display: flex;
@@ -10,11 +11,8 @@ body {
 .container {
     flex: 1;
     width: 100%;
-    /* Ensure full-width container */
     padding: 0;
-    /* Remove container padding */
     margin: 0 auto;
-    /* Center container */
 }
 
 
@@ -228,5 +226,10 @@ body {
   .logo-filter{
     width:65vw;
   }
+  #map{
+    width: 60vw;
+    height: 15rem;
+  }
+
 
   }
